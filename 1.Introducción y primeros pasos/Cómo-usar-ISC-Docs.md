@@ -7,7 +7,7 @@ Este manual tiene como objetivo ayudar a los estudiantes a navegar por el reposi
 1. Crea una cuenta en GitHub si aún no tienes una.
 2. Solicita acceso al repositorio ISC-Docs a través del administrador del proyecto.
 3. Una vez aprobado, accede al repositorio en el siguiente enlace:
-   🔗 ISC-Docs en GitHub
+   [ISC-Docs en GitHub](https://github.com/PaulLandaeta/isc-docs)
 
 ## 📂 Estructura del repositorio
 
