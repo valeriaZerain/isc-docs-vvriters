@@ -1,4 +1,4 @@
-# 📖 Manual de Uso para Estudiantes de Práctica Interna e Inducción Profesional
+# 📖 ¿Cómo usar ISC-Docs?
 
 Este manual tiene como objetivo ayudar a los estudiantes a navegar por el repositorio ISC-Docs y utilizar su documentación de manera eficiente.
 
