@@ -19,6 +19,8 @@ El repositorio está organizado en carpetas y archivos clave, incluyendo:
 - **notas-versiones/** → Historial de cambios y mejoras.
 - **politicas-estandares/** → Normas de desarrollo, seguridad y cumplimiento.
 
+Además, en la parte principal del repositorio habrá un archivo **README.md**, que incluirá un índice con enlaces a todos los archivos relevantes que se enviarán al equipo, así como descripciones detalladas de las carpetas para facilitar la navegación.
+
 ## 🔍 Cómo encontrar información relevante
 
 Para navegar la documentación y encontrar la información que necesitas:
@@ -34,4 +36,5 @@ Si necesitas información sobre la API de autenticación, puedes:
 1. Ir a la carpeta **documentacion-apis/**.
 2. Buscar un archivo llamado **autenticacion.md**.
 3. Leer la documentación dentro del archivo para comprender cómo funciona.
+
 
