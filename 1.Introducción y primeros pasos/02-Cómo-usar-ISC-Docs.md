@@ -13,14 +13,15 @@ Este manual tiene como objetivo ayudar a los estudiantes a navegar por el reposi
 
 El repositorio está organizado en carpetas y archivos clave, incluyendo:
 
-- **manuales/** → Contiene guías de uso y documentación detallada.
-- **guias-tecnicas/** → Procedimientos para configuraciones y mejores prácticas.
-- **documentacion-apis/** → Información sobre APIs utilizadas en los proyectos.
-- **notas-versiones/** → Historial de cambios y mejoras.
-- **politicas-estandares/** → Normas de desarrollo, seguridad y cumplimiento.
-
+```plaintext
+Guia-para-Estudiantes/
+├── 04-Fork-y-PullRequest.md
+├── Metricas-Evaluacion/
+│   └── 01-writer.md
+└── README.md
 Además, en la parte principal del repositorio habrá un archivo **README.md**, que incluirá un índice con enlaces a todos los archivos relevantes que se enviarán al equipo, así como descripciones detalladas de las carpetas para facilitar la navegación.
 
+```
 ## 🔍 Cómo encontrar información relevante
 
 Para navegar la documentación y encontrar la información que necesitas:
@@ -31,10 +32,23 @@ Para navegar la documentación y encontrar la información que necesitas:
 
 ## 📖 Ejemplo de búsqueda y consulta de documentación
 
-Si necesitas información sobre la API de autenticación, puedes:
+## 🔍 Pasos para encontrar la respuesta
 
-1. Ir a la carpeta **documentacion-apis/**.
-2. Buscar un archivo llamado **autenticacion.md**.
-3. Leer la documentación dentro del archivo para comprender cómo funciona.
+1. **Ir al archivo específico**  
+   ```markdown
+   Consultar: `Guia-para-Estudiantes/04-Fork-y-PullRequest.md`
 
+2. Buscar secciones relevantes
+grep -n "## Pasos para" 04-Fork-y-PullRequest.md
 
+3.Ver métricas de calidad
+Revisar: `Metricas-Evaluacion/01-writer.md`
+
+📌 Tip adicional
+Usa el README.md como punto de partida para entender:
+
+✅ Objetivo del repositorio
+
+🗂️ Cómo está organizada la información
+
+📝 Convenciones usadas
