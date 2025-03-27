@@ -33,7 +33,9 @@ Este documento explica el proceso para contribuir con mejoras a la documentació
     git commit -m "Descripción de los cambios realizados"
     
     ```
-    
+
+Además puedes consultar en este link, los forks y Pull Request más detalladamente:
+https://github.com/PaulLandaeta/isc-docs/blob/main/Guia-para-Estudiantes/04-Fork-y-PullRequest.md
 
 ## 🚀 Enviar un Pull Request (PR)
 
