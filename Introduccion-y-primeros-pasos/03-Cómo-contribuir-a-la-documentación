@@ -37,17 +37,36 @@ Este documento explica el proceso para contribuir con mejoras a la documentació
 Además puedes consultar en este link los forks del líder de equipo y Pull Request más detalladamente:
 https://github.com/PaulLandaeta/isc-docs/blob/main/Guia-para-Estudiantes/04-Fork-y-PullRequest.md
 
+Aquí tienes el contenido en formato Markdown:  
+
+```md
 ## 🚀 Enviar un Pull Request (PR)
 
-1. Sube tus cambios a GitHub:
-    
-    ```
-    git push origin mi-contribucion
-    
-    ```
-    
-2. Ve al repositorio en GitHub y crea un **Pull Request** desde tu rama hacia la rama principal.
-3. Explica brevemente los cambios realizados y espera la revisión del equipo.
+### 1. **Sube tus cambios a GitHub**  
+Ejecuta en tu terminal:  
+```bash
+git push origin nombre-de-tu-rama
+```
+
+### 2. **Crea el Pull Request en GitHub**  
+
+1. Accede al repositorio en GitHub.  
+2. Selecciona tu rama (`nombre-de-tu-rama`).  
+3. Haz clic en **"New Pull Request"**.  
+
+**Importante:** Selecciona como base la rama de destino que corresponda según:  
+
+- El flujo de trabajo de tu equipo (`dev`, `stage`, `qa`, etc.).  
+- Las indicaciones de tus líderes técnicos.  
+
+### 3. **Describe tus cambios**  
+
+- Explica claramente las modificaciones realizadas.  
+- Menciona cualquier consideración importante.  
+- Adjunta capturas o referencias si es necesario.  
+
+> ℹ️ **Nota:** Cada equipo puede tener convenciones diferentes sobre ramas base.
+```
 
 ## 🐞 Reportar errores o solicitar cambios
 
