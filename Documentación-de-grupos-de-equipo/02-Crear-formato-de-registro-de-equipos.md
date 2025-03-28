@@ -26,11 +26,3 @@ Para llevar un control adecuado de los miembros y nombres de los equipos, se deb
 
 ---
 
-### Ejemplo en excel
-
-📎 [Excel de Equipos](https://docs.google.com/spreadsheets/d/1v3lgzz_QfCDd_EbFGYk90s8mbxMYYB_WsGvSOlGpGBE/edit?usp=sharing)
-![image](https://github.com/user-attachments/assets/087400fc-9479-4c20-be97-10acc60cbe51)
-
-Como se observa en la parte superior sale las fechas en las que trabajaran en esos equipos.
-Además de los roles y nombres.
-
