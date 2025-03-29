@@ -5,11 +5,7 @@
 Este manual tiene el objetivo de indicar a los estudiantes los roles definidos en la asignatura. En primer lugar, se presenta una breve descripción de las funciones de los roles DevOps, QA, Frontend, Backend y Writer & QA Automation. A continuación, se hace referencia a la descripción de los niveles de experiencia Lead, Senior y Junior, los cuales están relacionados con el sistema de gamificación de la asignatura.
 
 ## 📊 Equipos gestión 2025
-Consultar este documento de excel para ver los roles y ver los niveles de experiencia:
-📎 [Excel de Equipos](https://docs.google.com/spreadsheets/d/1v3lgzz_QfCDd_EbFGYk90s8mbxMYYB_WsGvSOlGpGBE/edit?usp=sharing)
-
-En la parte inferior del documento podrás ver los roles:
-![image](https://github.com/user-attachments/assets/2c229b5e-ec83-4bd4-a2f9-64340857d3a3)
+Entrar a la carpeta "Gestión 2025" para ver los miembros de cada rol durante todo el año.
 
 
 ### 🛠️ DevOps
